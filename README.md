@@ -61,5 +61,5 @@ RegisterNumber:212223040201
 ![image](https://github.com/Shyamsujin/D-FLIPDLOP-NEGEDGE/assets/144870449/94fd2b1b-2011-4fce-9359-6719bb33ba30)
 
 
-**RESULTS**
-Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
+**RESULTS:**
+Thus the program to implement a D_FLIPDLOP_NEGEDGE using verilog and validating their functionality using their functional tables.
